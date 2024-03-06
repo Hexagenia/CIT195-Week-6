@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 6\immutableID\bin\Debug\net8.0\immutableID.exe
+F:\NMC\Projects\Week 6\immutableID\bin\Debug\net8.0\immutableID.deps.json
+F:\NMC\Projects\Week 6\immutableID\bin\Debug\net8.0\immutableID.runtimeconfig.json
+F:\NMC\Projects\Week 6\immutableID\bin\Debug\net8.0\immutableID.dll
+F:\NMC\Projects\Week 6\immutableID\bin\Debug\net8.0\immutableID.pdb
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.AssemblyInfo.cs
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.dll
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\refint\immutableID.dll
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.pdb
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\immutableID.genruntimeconfig.cache
+F:\NMC\Projects\Week 6\immutableID\obj\Debug\net8.0\ref\immutableID.dll
