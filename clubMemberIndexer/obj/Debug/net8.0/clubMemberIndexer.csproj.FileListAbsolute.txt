@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 6\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.exe
+F:\NMC\Projects\Week 6\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.deps.json
+F:\NMC\Projects\Week 6\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.runtimeconfig.json
+F:\NMC\Projects\Week 6\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.dll
+F:\NMC\Projects\Week 6\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.pdb
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.AssemblyInfo.cs
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.dll
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\refint\clubMemberIndexer.dll
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.pdb
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.genruntimeconfig.cache
+F:\NMC\Projects\Week 6\clubMemberIndexer\obj\Debug\net8.0\ref\clubMemberIndexer.dll
