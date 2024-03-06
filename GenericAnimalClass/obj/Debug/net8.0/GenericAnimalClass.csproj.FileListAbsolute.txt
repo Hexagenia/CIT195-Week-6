@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 6\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.exe
+F:\NMC\Projects\Week 6\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.deps.json
+F:\NMC\Projects\Week 6\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.runtimeconfig.json
+F:\NMC\Projects\Week 6\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.dll
+F:\NMC\Projects\Week 6\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.pdb
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfo.cs
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.dll
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\refint\GenericAnimalClass.dll
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.pdb
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.genruntimeconfig.cache
+F:\NMC\Projects\Week 6\GenericAnimalClass\obj\Debug\net8.0\ref\GenericAnimalClass.dll
