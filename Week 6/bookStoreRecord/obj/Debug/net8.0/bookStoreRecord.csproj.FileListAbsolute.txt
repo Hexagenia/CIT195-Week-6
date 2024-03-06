@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 6\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.exe
+F:\NMC\Projects\Week 6\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.deps.json
+F:\NMC\Projects\Week 6\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.runtimeconfig.json
+F:\NMC\Projects\Week 6\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.dll
+F:\NMC\Projects\Week 6\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.pdb
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.AssemblyInfo.cs
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.dll
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\refint\bookStoreRecord.dll
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.pdb
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.genruntimeconfig.cache
+F:\NMC\Projects\Week 6\bookStoreRecord\obj\Debug\net8.0\ref\bookStoreRecord.dll
